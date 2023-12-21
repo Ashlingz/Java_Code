@@ -1,0 +1,32 @@
+name_l,element_l,body_l,country_l,weapon_l
+
+qwe , Pyro , Baby-Boy , Monstadt , Polearm
+asd , Pyro , Baby-Boy , Monstadt , Polearm
+zxc , Pyro , Baby-Boy , Monstadt , Polearm
+bnm , Pyro , Baby-Boy , Monstadt , Polearm
+hkj , Pyro , Baby-Boy , Monstadt , Polearm
+bnm , Pyro , Baby-Boy , Monstadt , Polearm
+hgd , Pyro , Baby-Boy , Monstadt , Polearm
+thn , Pyro , Baby-Boy , Monstadt , Polearm
+iop , Pyro , Baby-Boy , Monstadt , Polearm
+iuy , Pyro , Baby-Boy , Monstadt , Polearm
+qwe , Pyro , Baby-Boy , Monstadt , Polearm
+789 , Pyro , Baby-Boy , Monstadt , Polearm
+098 , Pyro , Baby-Boy , Monstadt , Polearm
+yui , Pyro , Baby-Boy , Monstadt , Polearm
+123 , Pyro , Baby-Boy , Monstadt , Polearm
+fds , Pyro , Baby-Boy , Monstadt , Polearm
+876 , Pyro , Baby-Boy , Monstadt , Polearm
+123 , Pyro , Baby-Boy , Monstadt , Polearm
+098 , Pyro , Baby-Boy , Monstadt , Polearm
+tyu , Pyro , Baby-Boy , Monstadt , Polearm
+bgh , Pyro , Baby-Boy , Monstadt , Polearm
+fdg , Pyro , Baby-Boy , Monstadt , Polearm
+yuo , Pyro , Baby-Boy , Monstadt , Polearm
+vbn , Pyro , Baby-Boy , Monstadt , Polearm
+pou , Pyro , Baby-Boy , Monstadt , Polearm
+534 , Pyro , Baby-Boy , Monstadt , Polearm
+asd , Hydro , Baby-Girl , Liyue , Bow
+asd , Hydro , Baby-Girl , Liyue , Bow
+asd , Hydro , Baby-Girl , Liyue , Bow
+asd , Hydro , Baby-Girl , Liyue , Bow
